@@ -1,4 +1,4 @@
-# Terraform Google Cloud Storage Module
+# Terraform Google Cloud Storage Module - 1
 
 This module makes it easy to create a GCS bucket, and assign basic permissions on it to arbitrary users.
 
